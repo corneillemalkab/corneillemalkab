@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on a potential project
 - 🤔 I’m looking for help with codes/site redesign
 - 💬 Ask me about Sql ,OOP and Project ideas and how to get started
-- 📫 How to reach me: Beehance(Ui/Ux) - https://www.behance.net/corneilmalonga
+- 📫 How to reach me: Behance(Ui/Ux) - https://www.behance.net/corneilmalonga
 - 😄 Pronouns: he/Him
 - ⚡ Fun fact: i enjoy learning on Udemy in my free time.
 ---------------------------------------------------------------------------------------------------------------------------
