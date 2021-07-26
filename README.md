@@ -5,7 +5,7 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineer student with outstanding knowledge in Java and Object-oriented programming ( OOP ). Developing Responsive Websites using Html, CSS, JavaScript. Designing and Testing using Adobe XD and Figma to make fully working UI/UX of applications and websites, making use of prototyping and animation to enhance the User interface of the UI/UX Design. Seeking opportunities in the IT world to gain experience and perfect my skills.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineering student with outstanding knowledge in Java and Object-oriented programming ( OOP ). Developing Responsive Websites using Html, CSS, JavaScript. Designing and Testing using Adobe XD and Figma to make fully working UI/UX of applications and websites, making use of prototyping and animation to enhance the User interface of the UI/UX Design. Seeking opportunities in the IT world to gain experience and perfect my skills.
 
 - 🔭 I’m currently working on a Messaging App Ui/UX
 - 👯 I’m looking to collaborate on a potential project
