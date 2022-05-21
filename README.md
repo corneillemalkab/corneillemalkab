@@ -5,12 +5,12 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineering student with outstanding knowledge in Java and Object-oriented programming ( OOP ). Developing Responsive Websites using Html, CSS, JavaScript. Designing and Testing using Adobe XD and Figma to make fully working UI/UX of applications and websites, making use of prototyping and animation to enhance the User interface of the UI/UX Design. Seeking opportunities in the IT world to gain experience and perfect my skills.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineering student working as a IT Support Engineer for 10 months with Practical experience in Windows system, Office 365 applications, printer support, Entry level In Networking and Basics of SAP systems.
+Having very good understanding and hand on Java and Object-oriented programming ( OOP ) and SQL language. Developing Responsive Websites using Html, CSS, JavaScript., making use of prototyping and animation to enhance the User interface of the UI/UX Design. Seeking opportunities in the IT world to perfect my skills.
 
-- 🔭 I’m currently working on a Messaging App Ui/UX
+- 🔭 I’m currently working on PHP language and Java 11- 17
 - 👯 I’m looking to collaborate on a potential project
 - 🤔 I’m looking for help with codes/site redesign
-- 💬 Ask me about Sql ,OOP and Project ideas and how to get started
 - 📫 How to reach me: Behance(Ui/Ux) - https://www.behance.net/corneilmalonga
 - 😄 Pronouns: he/Him
 - ⚡ Fun fact: i enjoy learning on Udemy in my free time.
@@ -22,7 +22,6 @@ Skills & Speciality
 - Java
 - Adobe XD UI/UX
 - Jira 
-- GitHub
 - Self Learner
 - Cisco Packet Tracer
 ## My skills 🚀
