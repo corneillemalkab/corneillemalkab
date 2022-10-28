@@ -5,7 +5,7 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineering student working as a IT Support Engineer for 10 months with Practical experience in Windows system, Office 365 applications, printer support, Entry level In Networking and Basics of SAP systems.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Computer Engineering student working as a IT Support Engineer for 1.3 year with Practical experience in Windows system, Office 365 applications, printer support, Entry level In Networking and Basics of SAP systems.
 Having very good understanding and hand on Java and Object-oriented programming ( OOP ) and SQL language. Developing Responsive Websites using Html, CSS, JavaScript., making use of prototyping and animation to enhance the User interface of the UI/UX Design. Seeking opportunities in the IT world to perfect my skills.
 
 - 🔭 I’m currently working on PHP language and Java 11- 17
@@ -21,8 +21,6 @@ Skills & Speciality
 - Linux 
 - Java
 - Adobe XD UI/UX
-- Jira 
-- Self Learner
 - Cisco Packet Tracer
 ## My skills 🚀
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
